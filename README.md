@@ -1,4 +1,4 @@
-#Basic star pattern codes\
+# Basic star pattern codes\
 with output ss.
 
 
